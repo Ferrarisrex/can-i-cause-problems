@@ -1,0 +1,1 @@
+java -agentlib:native-image-agent=config-merge-dir=META-INF/native-image -jar can-i-cause-problems.jar

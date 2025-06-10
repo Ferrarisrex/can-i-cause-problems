@@ -1,0 +1,23 @@
+[
+{
+  "name":"java.lang.Boolean",
+  "methods":[{"name":"getBoolean","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"sun.launcher.LauncherHelper",
+  "allDeclaredFields":true,
+  "allPublicFields":true,
+  "allDeclaredClasses":true,
+  "allRecordComponents":true,
+  "allPermittedSubclasses":true,
+  "allNestMembers":true,
+  "allSigners":true,
+  "allPublicClasses":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "queryAllPublicConstructors":true,
+  "fields":[{"name":"isStaticMain"}, {"name":"noArgMain"}],
+  "methods":[{"name":"getApplicationClass","parameterTypes":[] }]
+}
+]
